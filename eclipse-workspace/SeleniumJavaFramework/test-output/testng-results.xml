@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8314" started-at="2022-03-26T12:13:53 AEDT" finished-at="2022-03-26T12:14:01 AEDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8314" started-at="2022-03-26T12:13:53 AEDT" finished-at="2022-03-26T12:14:01 AEDT">
+      <class name="Test.TestNGDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.TestNGDemo@6ec8211c]" name="setUp" is-config="true" duration-ms="2791" started-at="2022-03-26T12:13:53 AEDT" finished-at="2022-03-26T12:13:56 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Test.TestNGDemo@6ec8211c]" name="test1" duration-ms="17" started-at="2022-03-26T12:13:56 AEDT" finished-at="2022-03-26T12:13:56 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Test.TestNGDemo@6ec8211c]" name="test2" duration-ms="2" started-at="2022-03-26T12:13:56 AEDT" finished-at="2022-03-26T12:13:56 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testRun()[pri:0, instance:Test.TestNGDemo@6ec8211c]" name="testRun" duration-ms="4147" started-at="2022-03-26T12:13:56 AEDT" finished-at="2022-03-26T12:14:00 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestNGDemo@6ec8211c]" name="tearDown" is-config="true" duration-ms="1312" started-at="2022-03-26T12:14:00 AEDT" finished-at="2022-03-26T12:14:01 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestNGDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
