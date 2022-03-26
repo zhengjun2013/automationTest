@@ -45,7 +45,7 @@ public class TestNGDemo {
 			driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 		
 			googlePageObject.googleSearchClick();
-			test3.log(Status.INFO, "Testing complete");
+			test3.log(Status.INFO, "Testing is complete");
 		
 		}
 		@Test

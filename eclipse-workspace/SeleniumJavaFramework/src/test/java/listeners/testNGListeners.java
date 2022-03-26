@@ -7,7 +7,7 @@ import org.testng.ITestResult;
 public class testNGListeners implements ITestListener {
 
 	public void onTestSuccess(ITestResult result) {
-		System.out.println("Testing is successful.");
+		System.out.println("Testing is successfully completed.");
 	}
 	
 	public void onTestFail(ITestResult result) {
