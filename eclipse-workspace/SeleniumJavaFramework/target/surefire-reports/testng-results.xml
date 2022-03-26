@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test.TestNGDemo" duration-ms="13074" started-at="2022-03-26T22:14:10 AEDT" finished-at="2022-03-26T22:14:23 AEDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13074" started-at="2022-03-26T22:14:10 AEDT" finished-at="2022-03-26T22:14:23 AEDT">
+      <class name="Test.TestNGDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.TestNGDemo@4d95d2a2]" name="setUp" is-config="true" duration-ms="3359" started-at="2022-03-26T22:14:10 AEDT" finished-at="2022-03-26T22:14:13 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Test.TestNGDemo@4d95d2a2]" name="test1" duration-ms="31" started-at="2022-03-26T22:14:13 AEDT" finished-at="2022-03-26T22:14:13 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Test.TestNGDemo@4d95d2a2]" name="test2" duration-ms="1" started-at="2022-03-26T22:14:13 AEDT" finished-at="2022-03-26T22:14:13 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testRun()[pri:0, instance:Test.TestNGDemo@4d95d2a2]" name="testRun" duration-ms="4019" started-at="2022-03-26T22:14:13 AEDT" finished-at="2022-03-26T22:14:17 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestNGDemo@4d95d2a2]" name="tearDown" is-config="true" duration-ms="5547" started-at="2022-03-26T22:14:17 AEDT" finished-at="2022-03-26T22:14:23 AEDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestNGDemo -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Test.TestNGDemo -->
+</testng-results>
