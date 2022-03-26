@@ -52,7 +52,7 @@ public class TestNGDemo {
 		public void test1() {
 			
 			ExtentTest test1 = extent.createTest("TestCase1", "Test Case 1");
-			test1.log(Status.PASS, "Test passed");
+			test1.log(Status.PASS, "Test is passed");
 			
 		}
 		
